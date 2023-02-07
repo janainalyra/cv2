@@ -92,7 +92,7 @@ p{
     width: 25%;
     height: auto;
     float: right;
-    margin-left: 30px;
+    margin-right: 160px;
 
         
 }
@@ -140,4 +140,8 @@ p{
     background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
+  }
+
+  #teste{
+    margin-left: 0px;
   }
